@@ -270,8 +270,6 @@ test_texts = [
     "公司核心技术专利文档",
     "12321313213213",
     "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq",
-    "指掌易",
-    "沙箱"
 ]
 
 predictions = predict_sensitive(test_texts)
